@@ -1,0 +1,19 @@
+.heading{
+    font-size: 20px;
+}
+canvas{
+    background-color: beige;
+    width: 200px;
+    height: 200px;
+    margin-top: 7pc;
+    border: 3px solid black;
+}
+#song_name{
+    background-color: yellow;
+    width: 22pc;
+    height: 3pc;
+    text-align: center;
+    padding-top: .5pc;
+    color: darkviolet;
+    font-weight: bold;
+}
